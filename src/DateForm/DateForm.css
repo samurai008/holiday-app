@@ -1,0 +1,25 @@
+.form-container {
+
+}
+
+input[type="text"] {
+    border: 1px solid lightgray;
+    padding: 10px;
+    font-weight: 100;
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 135%;
+}
+
+input:focus {
+    outline: none;
+}
+
+button {
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-left: none;
+    font-size: 135%;
+    background: none;
+    cursor: pointer;
+}
